@@ -10,13 +10,10 @@ public class ConstructorDemo {
 		ConstructorDemo d5=new ConstructorDemo();
 		ConstructorDemo d6=new ConstructorDemo();
 		ConstructorDemo d7=new ConstructorDemo();
-		ConstructorDemo d8=new ConstructorDemo();
 	}
-	public ConstructorDemo () {
-		System.out.println("I am constructor...");
 	
-		
+	public ConstructorDemo() {
+		System.out.println("I am bhoomika.....");
 
 	}
-
 }

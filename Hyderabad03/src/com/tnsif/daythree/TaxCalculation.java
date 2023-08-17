@@ -1,8 +1,9 @@
 package com.tnsif.daythree;
-public class TaxCalculation
-{
+import com.tnsif.daythree.*;
+public class TaxCalculation {
 
-	void calculateTax(Person person)
+
+	 public void calculateTax(Person person)
 	{
 		if(person.getAge()<65|| person.getGender().equalsIgnoreCase("female"))
 {
@@ -30,5 +31,3 @@ else
 	}
 			
 	}
-
-
