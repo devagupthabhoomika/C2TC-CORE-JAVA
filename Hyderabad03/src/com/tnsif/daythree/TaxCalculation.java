@@ -1,5 +1,4 @@
 package com.tnsif.daythree;
-import com.tnsif.daythree.*;
 public class TaxCalculation
 {
 
